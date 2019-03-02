@@ -1,5 +1,5 @@
 **Research Engineer** in Robotics, Self-Supervised Learning @ **Google Brain**<br>
-[[Twitter]](https://twitter.com/coreylynch) [[Scholar]](https://scholar.google.com/citations?user=CYWO-oAAAAAJ&hl=en) [[Email: [firstname][lastname]9 at gmail]]()
+[[Twitter]](https://twitter.com/coreylynch) [[github]](https://github.com/coreylynch) [[Scholar]](https://scholar.google.com/citations?user=CYWO-oAAAAAJ&hl=en) [[Email: firstname lastname 9 at gmail]]()
 
 | Projects |  |
 | ------------- | ------------- |
