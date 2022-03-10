@@ -4,7 +4,7 @@
 | Projects |  |
 | ------------- | ------------- |
 | <img src='docs/figs/ibc.gif' width='270'>  | **Implicit Behavioral Cloning**<br>[[ Project Site ]](https://implicitbc.github.io/) [[ Paper ]](https://arxiv.org/abs/2109.00137) [[ Code ]](https://github.com/google-research/ibc) |
-| <img src='docs/figs/bcz.gif' width='270'>  | **BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**<br>[[ Project Site ]](https://sites.google.com/corp/view/bc-z/home) [[ Paper ]](https://arxiv.org/abs/2202.02005) [[ Code ]](https://github.com/google-research/tensor2robot/tree/master/research/bcz) |
+| <img src='docs/figs/bcz_results.gif' width='270'>  | **BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**<br>[[ Project Site ]](https://sites.google.com/corp/view/bc-z/home) [[ Paper ]](https://arxiv.org/abs/2202.02005) [[ Code ]](https://github.com/google-research/tensor2robot/tree/master/research/bcz) |
 | <img src='docs/figs/playlang.gif' width='270'>  | **Grounding Language in Play**<br>[[ Interactive Site ]](https://language-play.github.io) [[ Paper ]](https://arxiv.org/abs/2005.07648) |
 | <img src='docs/figs/lmp_8tasks.gif' width='270'>  | **Learning Latent Plans from Play**<br>[[ Interactive Site ]](https://learning-from-play.github.io) [[ Paper ]](https://arxiv.org/abs/1903.01973)|
 | <img src='docs/figs/lmp_8tasks.gif' width='270'>  | **Relay Policy Learning**<br>[[ Interactive Site ]](https://https://relay-policy-learning.github.io) [[ Paper ]](https://arxiv.org/abs/1910.11956) [[ Code ]](https://github.com/google-research/relay-policy-learning)|
