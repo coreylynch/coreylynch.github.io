@@ -1,4 +1,4 @@
-**Research Scientist** Research Scientist. Imitation, language, self-supervision @ **Robotics at Google**. <br>
+**Research Scientist**. Imitation, language, self-supervision @ **Robotics at Google**. <br>
 [[Scholar]](https://scholar.google.com/citations?user=CYWO-oAAAAAJ&hl=en) [[Twitter]](https://twitter.com/coreylynch) [[Github]](https://github.com/coreylynch) [[Email: firstname lastname 9 at gmail]]()
 
 | Projects |  |
