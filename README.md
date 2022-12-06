@@ -1,13 +1,36 @@
-**Research Scientist, Robotics at Google**. Imitation, language, self-supervision. <br>
-[[Scholar]](https://scholar.google.com/citations?user=CYWO-oAAAAAJ&hl=en) [[Twitter]](https://twitter.com/coreylynch) [[Github]](https://github.com/coreylynch) [[Email: firstname lastname 9 at gmail]]()
+# Sermanet Home
 
-| Projects |  |
-| ------------- | ------------- |
-| <img src='docs/figs/ibc.gif' width='270'>  | **Implicit Behavioral Cloning**<br>[[ Project Site ]](https://implicitbc.github.io/) [[ Paper ]](https://arxiv.org/abs/2109.00137) [[ Code ]](https://github.com/google-research/ibc) |
-| <img src='docs/figs/bcz_results.gif' width='270'>  | **BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning**<br>[[ Project Site ]](https://sites.google.com/corp/view/bc-z/home) [[ Paper ]](https://arxiv.org/abs/2202.02005) [[ Code ]](https://github.com/google-research/tensor2robot/tree/master/research/bcz) |
-| <img src='docs/figs/playlang.gif' width='270'>  | **Grounding Language in Play**<br>[[ Interactive Site ]](https://language-play.github.io) [[ Paper ]](https://arxiv.org/abs/2005.07648) |
-| <img src='docs/figs/lmp_8tasks.gif' width='270'>  | **Learning Latent Plans from Play**<br>[[ Interactive Site ]](https://learning-from-play.github.io) [[ Paper ]](https://arxiv.org/abs/1903.01973)|
-| <img src='docs/figs/relay.gif' width='270'>  | **Relay Policy Learning**<br>[[ Interactive Site ]](https://https://relay-policy-learning.github.io) [[ Paper ]](https://arxiv.org/abs/1910.11956) [[ Code ]](https://github.com/google-research/relay-policy-learning)|
-| <img src='docs/figs/cheetah.gif' width='270'>  | **Self-Supervised Actionable Representations**<br>[[ Project Page ]](https://sites.google.com/view/actionablerepresentations/) [[ Paper ]](https://arxiv.org/abs/1808.00928) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Dwibedi2018Learning.bib) [[ Video ]](https://drive.google.com/file/d/1QkEnqApB7U7XvRBupfnysgdFMarhnwlP/view?usp=sharing) [[ Slides ]](https://docs.google.com/presentation/d/1okTa2eWg-BbjA7l1dHL8R_UWOmF5wSQ0HHm7A8NpvfM/edit?usp=sharing) |
-| <img src='docs/figs/kuka_pouring_cropped.mov.gif' width='270'>  | **Time-Contrastive Networks (TCN)**<br>[[ Project Page ]](https://sermanet.github.io/imitate/) [[ Paper ]](https://arxiv.org/abs/1704.06888) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2017TCN.bib) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) [[ Code ]](https://github.com/tensorflow/models/tree/master/research/tcn) [[ Slides ]](https://docs.google.com/presentation/d/1EvWSbsFfnceBpN7yG1wnqM2LxySQ0Gi-wTx6QaoVekY/edit?usp=sharing) [[ NIPS 2017 Talk ]](https://vimeo.com/252185872) |
-| <img src='docs/figs/pose_all.mov.gif' width='270'>  |  **Self-Supervised Imitation Learning**<br>[[ Project Page ]](https://sermanet.github.io/imitation/) |
+Markdown from https://github.com/planetrl/planetrl.github.io
+
+### Article
+
+`draft.md` - main text of the article, in markdown.
+
+`draft_appendix.md` - appendix, in markdown.
+
+`draft_bib.html` - the citations.
+
+`draft_header.html` - start of the document
+
+`index.html` - generated, don't edit this file.
+
+### Instructions to Build and Test
+```bash
+git clone https://github.com/sermanet/sermanet.github.io.git
+cd sermanet.github.io
+npm install
+chmod +x ./bin/*
+```
+
+Modify text by editing `draft.md` -- this is where all of the content exists.
+
+Appendix content goes in `draft_appendix.md`. Add bib entries to `draft_bib.html`.
+
+Run `./bin/make` to build document into `index.html` (which are identical).
+Run `python -m http.server` to serve on the base directory to view `draft.html` in a local browser for debugging.
+
+To watch all markdown files for changes and then compile them, you can run the following
+```
+brew install fswatch
+./bin/watch
+```
