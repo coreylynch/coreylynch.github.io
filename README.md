@@ -16,8 +16,8 @@ Markdown from https://github.com/planetrl/planetrl.github.io
 
 ### Instructions to Build and Test
 ```bash
-git clone https://github.com/sermanet/sermanet.github.io.git
-cd sermanet.github.io
+git clone https://github.com/coreylynch/coreylynch.github.io.git
+cd coreylynch.github.io
 npm install
 chmod +x ./bin/*
 ```
